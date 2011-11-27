@@ -4,7 +4,7 @@ Plugin Name: now_on_sell
 Plugin URI: 
 Description: 【The function to cooperate E-commerce site】<br />If there is any stoks,it appear a button to link E-commerce site.<br />If there is no stock,it display "We have Already finished to sell reserve ticket".
 Version: 1.0
-Author: hakomori
+Author: rainy4649
 Author URI: 
 */
 
